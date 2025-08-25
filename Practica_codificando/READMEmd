@@ -1,0 +1,3 @@
+Entre la primera parte y la última fui aumentado el "#define" para eliminar los numeros magicos.
+Lo utilice para definir la cantidad de LED`s y el tiempo de Delay.
+asi podemos implementar bucles mas comodamente y asi poder manejar de mejor manera el codigo ante cualquier cambio.
